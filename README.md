@@ -1,49 +1,69 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Joe Bloggs - Curriculum Vitae</title>
-</head>
+ <h1><img scr="![415547190_2041111746256563_881086338378015954_n](https://github.com/user-attachments/assets/caa6e502-d06a-4ba5-9338-3d66c701b30e)
+
+PONCIANO, MC RAM JOSHUA
+
+
+<h2>
+PROFILE
+</h2>
+A dedicated and detail - oriented individual with 1 year and 8 months of working experience in the Registrar Office of Colegio de San Pedro, Inc. I've developed skills in filling credentials, processing documents, and assisting customer's request.
+
 <body>
-Joe Bloggs
-Job Title
-joe@bloggs.com
-www.bloggs.com
-01234567890
-Personal Profile
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Work Experience
-Job Title at Company
-April 2011 - Present
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Job Title at Company
-Janruary 2007 - March 2011
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Job Title at Company
-October 2004 - December 2006
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
-
-Key Skills
-A Key Skill
-A Key Skill
-A Key Skill
-A Key Skill
-A Key Skill
-A Key Skill
-A Key Skill
-
-Education
-College/University
-Qualification
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.
-
-College/University
-Qualification
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.
+<h2>
+</h2>
+<h3>
+WORK EXPERIENCE
+</h3>
+<h4>STUDENT ASSISTANT</h4>
+<i>May 1, 2024</i>
+<p>Developed my skill in assisting customer's request, processing documents, and safe keeping of credenstials.<p>
+<h4>LAZADA WAREHOUSE STAFF</h4>
+<i>November 10, 2023</i>
+<p>Imporved my leadership and able to work harmoniosly with colleaguess, maintain a respectful attitude, and contribute positively to team dynamics.<p>
+  <h4>SERVICE CREW</h4>
+<i>January 20 2024</i>
+<p>Improved my inventory skills, customer interaction skills.<p>
+<body>
 
 
-</body>
+  
+<h2>
+</h2>
+<h3>
+CONTACT
+</h3>
+
+<body>
+
+09970932282
+
+mcramponciano0214@gmail.com
+
+
+156 Quezon St., Blk. 7, Poblacion Muntinlupa, Muntinlupa City
+
+
+<h2>
+</h2>
+<h3>
+EDUCATION
+</h3>
+<h4>ST. BRIDGET SCHOOL</h4>
+<i>2018</i>
+<p>High School.<p>
+
+<h4>MUNTINLUPA NATIONAL HIGH SCHOOL - MAIN</h4>
+<i>2019</i>
+<p>Senior High School.<p>
+
+<h4>COLEGIO DE SAN PEDRO, INC.</h4>
+<i>2022</i>
+<p>College.<p>
+
+
+
+
+
+
 
