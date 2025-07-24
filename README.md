@@ -1,6 +1,5 @@
  <h1>
-PONCIANO, MC RAM JOSHUA <image src=<!
->.jpg 
+PONCIANO, MC RAM JOSHUA <image src=<> 
 
 
 <h2>
