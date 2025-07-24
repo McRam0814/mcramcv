@@ -1,6 +1,6 @@
- <h1><img scr="![415547190_2041111746256563_881086338378015954_n](https://github.com/user-attachments/assets/caa6e502-d06a-4ba5-9338-3d66c701b30e)
-
-PONCIANO, MC RAM JOSHUA
+ <h1>
+PONCIANO, MC RAM JOSHUA <image src=<!
+>.jpg 
 
 
 <h2>
